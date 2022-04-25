@@ -12,7 +12,7 @@
 ## Features
 - high contrast mini OLED display
 - low power consumption, long battery life
-- (pipe burst) H2O flooding alarm
+- (pipe burst) H2O flooding alarm with buzzer
 - receive timeout warning
 - receive indication
 - short pulse manchester encoded transmission
